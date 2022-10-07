@@ -12,5 +12,6 @@
 
 客服邮箱：
 
-打开www.ipaddress.com(https://www.ipaddress.com/)
-搜索github
+github最新地址，打开[www.ipaddress.com](https://www.ipaddress.com/)搜索github
+
+github访问慢的问题[https://github.com/521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520)

@@ -1,7 +1,8 @@
-[首页地址](https://sunkus.github.io)|[电视TV](https://sunkus.github.io/tv)
+[首页地址](https://sunkus.github.io)  |[电视TV](https://sunkus.github.io/tv)  
 
 ----------
 
+在线听歌：[music.163.com](https://music.163.com/#/discover/toplist?id=3778678)
 
 最新地址：[sunkus.ys168.com](http://sunkus.ys168.com)
 
@@ -9,6 +10,7 @@
 
 123网盘软件：[www.123pan.com/s/LPqA-E1vq](https://www.123pan.com/s/LPqA-E1vq)
 
+https://www.ktvxg.com/single.aspx?Page=1
 
 客服Telegram(电报)号：
 

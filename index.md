@@ -1,4 +1,4 @@
-[首页地址](https://sunkus.github.io)  |[电视TV](https://sunkus.github.io/tv)  
+[首页地址](https://sunkus.github.io)  |[电视TV](https://sunkus.github.io/tv)  |[监控](https://sunkus.github.io/jiankong)  
 
 ----------
 

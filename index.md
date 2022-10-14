@@ -1,6 +1,7 @@
 [首页地址](https://sunkus.github.io)  |[电视TV](https://sunkus.github.io/tv)  |[监控](https://sunkus.github.io/jiankong)  
 
 ----------
+wps2019 [下载链接](http://pan.zzu.cc:99/d/Ali/WPS2019_Pro.exe)
 
 在线听歌：[music.163.com](https://music.163.com/#/discover/toplist?id=3778678)
 

@@ -7,9 +7,9 @@ wps2019 [下载链接](http://pan.zzu.cc:99/d/Ali/WPS2019_Pro.exe)
 
 最新地址：[sunkus.ys168.com](http://sunkus.ys168.com)
 
-蓝奏云软件：[https://sunkus.lanzoux.com/b00zakeid](https://sunkus.lanzoux.com/b00zakeid)
+蓝奏云EXE软件：[https://sunkus.lanzoux.com/b00zakeid](https://sunkus.lanzoux.com/b00zakeid)
 
-蓝奏云软件：[https://sunkus.lanzouw.com/b011zxpub](https://sunkus.lanzouw.com/b011zxpub)
+蓝奏云APK软件：[https://sunkus.lanzouw.com/b011zxpub](https://sunkus.lanzouw.com/b011zxpub)
 
 123网盘软件：[https://www.123pan.com/s/LPqA-E1vq](https://www.123pan.com/s/LPqA-E1vq)
 

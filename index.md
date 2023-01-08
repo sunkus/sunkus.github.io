@@ -1,28 +1,13 @@
-[首页地址](https://sunkus.github.io)  |[电视TV](https://sunkus.github.io/tv)  |[监控](https://sunkus.github.io/jiankong)  
-
+[首页](https://sunkus.github.io)&nbsp;&nbsp;&nbsp;&nbsp;[电视TV](https://sunkus.github.io/tv)&nbsp;&nbsp;&nbsp;&nbsp;[监控](https://sunkus.github.io/jiankong)  
 ----------
-wps2019 [下载链接](http://pan.zzu.cc:99/d/Ali/WPS2019_Pro.exe)
+###**工具**
+[[wps2019]](http://pan.zzu.cc:99/d/Ali/WPS2019_Pro.exe)&nbsp;&nbsp;&nbsp;&nbsp;
+###**蓝奏云**
+[[蓝奏云EXE软件]](https://sunkus.lanzoux.com/b00zakeid)&nbsp;&nbsp;&nbsp;&nbsp;[[蓝奏云应用软件]](https://sunkus.lanzouw.com/b011q89ub)&nbsp;&nbsp;&nbsp;&nbsp;[[蓝奏云APK软件]](https://sunkus.lanzouw.com/b011zxpub)&nbsp;&nbsp;&nbsp;&nbsp;[[123网盘软件]](https://www.123pan.com/s/LPqA-E1vq)
+###**听歌**
+[[网易在线听歌]](https://music.163.com/#/discover/toplist?id=3778678)&nbsp;&nbsp;&nbsp;&nbsp;
+###**歌曲MPG**
+[ktvxg](https://www.ktvxg.com/single.aspx?Page=1)
 
-在线听歌：[music.163.com](https://music.163.com/#/discover/toplist?id=3778678)
-
-最新地址：[sunkus.ys168.com](http://sunkus.ys168.com)
-
-蓝奏云EXE软件：[https://sunkus.lanzoux.com/b00zakeid](https://sunkus.lanzoux.com/b00zakeid)
-
-蓝奏云应用软件：[https://sunkus.lanzouw.com/b011q89ub](https://sunkus.lanzouw.com/b011q89ub)
-
-蓝奏云APK软件：[https://sunkus.lanzouw.com/b011zxpub](https://sunkus.lanzouw.com/b011zxpub)
-
-123网盘软件：[https://www.123pan.com/s/LPqA-E1vq](https://www.123pan.com/s/LPqA-E1vq)
-
-https://www.ktvxg.com/single.aspx?Page=1
-
-客服Telegram(电报)号：
-
-客服邮箱：
-
-github最新地址，打开[www.ipaddress.com](https://www.ipaddress.com/)搜索github
-
-github访问慢的问题[https://github.com/521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520)
-
-[BC技术服务](http://www.ccho.cc/bc/) |
+###**友情链接**
+[ys168网盘](http://sunkus.ys168.com) |[BC技术服务](http://www.ccho.cc/bc/) |

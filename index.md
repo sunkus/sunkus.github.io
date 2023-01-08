@@ -1,3 +1,4 @@
+<base target="_blank">
 [首页](https://sunkus.github.io)&nbsp;&nbsp;&nbsp;&nbsp;[电视TV](https://sunkus.github.io/tv)&nbsp;&nbsp;&nbsp;&nbsp;[监控](https://sunkus.github.io/jiankong)  
 ----------
 ###**工具**
@@ -10,4 +11,4 @@
 [ktvxg](https://www.ktvxg.com/single.aspx?Page=1)
 
 ###**友情链接**
-[ys168网盘](http://sunkus.ys168.com) |[BC技术服务](http://www.ccho.cc/bc/) |
+[ys168网盘](<http://sunkus.ys168.com>{:target="_blank"}) |[BC技术服务](http://www.ccho.cc/bc/) |

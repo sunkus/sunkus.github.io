@@ -9,13 +9,17 @@
 <a href="https://sunkus.lanzouw.com/b011zxpub" target="_blank">[蓝奏云APK软件]</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.123pan.com/s/LPqA-E1vq" target="_blank">[123网盘软件]</a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-**听歌**
-[[网易在线听歌]](https://music.163.com/#/discover/toplist?id=3778678)&nbsp;&nbsp;&nbsp;&nbsp;
-###**歌曲MPG**
-[ktvxg](https://www.ktvxg.com/single.aspx?Page=1)
+**听歌**  
+<a href="https://music.163.com/#/discover/toplist?id=3778678" target="_blank">[网易在线听歌]</a>&nbsp;&nbsp;&nbsp;&nbsp;  
+###**歌曲MPG**  
+<a href="https://www.ktvxg.com/single.aspx?Page=1" target="_blank">[ktvxg]</a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-###**友情链接**
-[ys168网盘](<http://sunkus.ys168.com>{:target="_blank"})12
-<http://sunkus.ys168.com>{:target="_blank"}|[BC技术服务](http://www.ccho.cc/bc/) |
-[Hello, world!](http://example.com/){target="_blank"}
-<a href="http://example.com/" target="_blank">Hello, world!</a>
+
+<br>
+<br>
+<br>
+<br>
+
+###**友情链接**  
+<a href="http://sunkus.ys168.com" target="_blank">[ys168网盘]</a>&nbsp;&nbsp;&nbsp;&nbsp;|
+<a href="http://www.ccho.cc/bc/" target="_blank">[BC技术服务]</a>&nbsp;&nbsp;&nbsp;&nbsp;|

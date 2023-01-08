@@ -3,7 +3,7 @@
 **搜索**&nbsp;&nbsp;&nbsp;&nbsp;  
 <input type=text style="border:1px solid;padding:0 8px;border-radius:4px;width:200px;height:38px;font-size:18px" id="keyboard"  onMouseOver="this.focus()" onKeyDown="if (event.keyCode==13) {baidu.onclick()}">
 <input type=button id="baidu" class=inp onClick="window.open('http://www.baidu.com/s?wd='+encodeURIComponent(keyboard.value))"  value="百度">
-<input type=button class=inp onClick="window.open('https://www.zdfans.com/search/'+encodeURIComponent(keyboard.value)+'.html')" value="软件">
+<input type=button class=inp onClick="window.open('https://www.zdfans.com/search/'+encodeURIComponent(keyboard.value)+'.html')" value="软件"><br>  
 **电视**`代码`  
 <a href="https://tv.cctv.com/live" target="_blank">[央视]</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.sctv.com/watchTV" target="_blank">[四川电视]</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.cditv.cn/show-192-1-1.html" target="_blank">[成都电视]</a>&nbsp;&nbsp;&nbsp;&nbsp;   
 <a href="https://www.voflix.com/" target="_blank">[voflix]</a>&nbsp;&nbsp;&nbsp;&nbsp;

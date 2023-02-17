@@ -1,5 +1,3 @@
-[技术服务](https://sunkus.github.io)&nbsp;&nbsp;&nbsp;&nbsp;  
-----------
 **搜索**&nbsp;&nbsp;&nbsp;&nbsp;  
 <input type=text style="border:1px solid;padding:0 8px;border-radius:4px;width:200px;height:38px;font-size:18px" id="keyboard"  onMouseOver="this.focus()" onKeyDown="if (event.keyCode==13) {baidu.onclick()}">
 <input type=button id="baidu" class=inp onClick="window.open('http://www.baidu.com/s?wd='+encodeURIComponent(keyboard.value))"  value="百度">
@@ -47,3 +45,5 @@
 **友情链接**  
 |<a href="http://sunkus.ys168.com" target="_blank">[ys168网盘]</a>&nbsp;&nbsp;&nbsp;&nbsp;
 |<a href="http://www.ccho.cc/bc/" target="_blank">[BC技术服务]</a>&nbsp;&nbsp;&nbsp;&nbsp;
+[技术服务](https://sunkus.github.io)&nbsp;&nbsp;&nbsp;&nbsp;  
+----------

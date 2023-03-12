@@ -3,6 +3,11 @@
 <input type=button id="baidu" class=inp onClick="window.open('http://www.baidu.com/s?wd='+encodeURIComponent(keyboard.value))"  value="百度">
 <input type=button class=inp onClick="window.open('https://www.zdfans.com/search/'+encodeURIComponent(keyboard.value)+'.html')" value="软件"><br>  
 
+**常用**`常用`  
+<a href="https://team.qq.com/d/Maintenance/RemoteTools#/" target="_blank">[电脑管家小团队版]</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.sctv.com/watchTV" target="_blank">[四川电视]</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.cditv.cn/show-192-1-1.html" target="_blank">[成都电视]</a>&nbsp;&nbsp;&nbsp;&nbsp;   
+<a href="https://www.voflix.com/" target="_blank">[voflix]</a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+
 **电视**`代码`  
 <a href="https://tv.cctv.com/live" target="_blank">[央视]</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.sctv.com/watchTV" target="_blank">[四川电视]</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.cditv.cn/show-192-1-1.html" target="_blank">[成都电视]</a>&nbsp;&nbsp;&nbsp;&nbsp;   
 <a href="https://www.voflix.com/" target="_blank">[voflix]</a>&nbsp;&nbsp;&nbsp;&nbsp;

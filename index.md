@@ -4,7 +4,7 @@
 <input type=button class=inp onClick="window.open('https://www.zdfans.com/search/'+encodeURIComponent(keyboard.value)+'.html')" value="软件"><br>  
 
 **导航**`导航`  
-<a href="[https://sunkus.lanzoux.com/b00zakeid](http://sunkus.ysepan.com/)" target="_blank">[ys168]</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="http://sunkus.ysepan.com/" target="_blank">[ys168]</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.123pan.com/s/LPqA-E1vq" target="_blank">[123软件]</a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 **常用**`常用`  

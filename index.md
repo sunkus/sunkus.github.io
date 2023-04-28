@@ -18,6 +18,7 @@
 
 **工具**`代码`  
 <a href="http://pan.zzu.cc:99/d/Ali/WPS2019_Pro.exe" target="_blank">[wps2019]</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="/soft/清除历史打印数据.bat" target="_blank">[清除历史打印数据.bat]</a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 **蓝奏云**  
 <a href="https://sunkus.lanzoux.com/b00zakeid" target="_blank">[蓝奏云EXE软件]</a>&nbsp;&nbsp;&nbsp;&nbsp;

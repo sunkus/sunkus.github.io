@@ -1,3 +1,0 @@
-@echo off  echo 正在清除历史打印数据，请稍等......  
-
-del /f /s /q C:\Windows\System32\spool\PRINTERS\*.*

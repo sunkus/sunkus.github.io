@@ -1,3 +1,11 @@
+**FM**`清晨音乐台` 
+<a href="https://www.ximalaya.com/radio/1011" target="_blank">[清晨音乐台]</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://tv.cctv.com/live" target="_blank">[央视在线]</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.sctv.com/watchTV" target="_blank">[四川电视]</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.cditv.cn/show-192-1-1.html" target="_blank">[成都电视]</a>&nbsp;&nbsp;&nbsp;&nbsp;   
+<a href="https://www.voflix.com/" target="_blank">[voflix]</a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+**网盘**`百度、天翼、阿里` 
+<a href="https://cloud.189.cn/web/login.html" target="_blank">[天翼网盘]</a>&nbsp;&nbsp;&nbsp;&nbsp;
+
 **搜索**&nbsp;&nbsp;&nbsp;&nbsp;  
 <input type=text style="border:1px solid;padding:0 8px;border-radius:4px;width:200px;height:38px;font-size:18px" id="keyboard"  onMouseOver="this.focus()" onKeyDown="if (event.keyCode==13) {baidu.onclick()}">
 <input type=button id="baidu" class=inp onClick="window.open('http://www.baidu.com/s?wd='+encodeURIComponent(keyboard.value))"  value="百度">
@@ -16,11 +24,6 @@
 <a href="https://static.centbrowser.cn/win_stable/4.3.9.248/centbrowser_4.3.9.248.exe" target="_blank">[百分浏览器]</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://dl-cdn.oray.com/sunlogin/windows/SunloginClient_12.6.0.48685.exe
 " target="_blank">[向日葵]</a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-
-**电视**`代码`  
-<a href="https://tv.cctv.com/live" target="_blank">[央视]</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.sctv.com/watchTV" target="_blank">[四川电视]</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.cditv.cn/show-192-1-1.html" target="_blank">[成都电视]</a>&nbsp;&nbsp;&nbsp;&nbsp;   
-<a href="https://www.voflix.com/" target="_blank">[voflix]</a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 **工具**`代码`  
 <a href="http://pan.zzu.cc:99/d/Ali/WPS2019_Pro.exe" target="_blank">[wps2019]</a>&nbsp;&nbsp;&nbsp;&nbsp;

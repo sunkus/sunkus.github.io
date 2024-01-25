@@ -11,6 +11,7 @@
 **公网IP地址查询**`路由跟踪、域名检测` 
 &nbsp;&nbsp;&nbsp;&nbsp;\
 <a href="https://api.uouin.com/ip.html" target="_blank">[IP地址查询、路由跟踪]</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://tool.browser.qq.com/net_check.html" target="_blank">[域名联通性检查]</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.json.cm/unixtime/" target="_blank">[时间戳在线转换]</a>&nbsp;&nbsp;&nbsp;&nbsp;\
 &nbsp;&nbsp;&nbsp;&nbsp;\
 **网盘**`百度、天翼、阿里` 

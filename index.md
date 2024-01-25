@@ -8,6 +8,9 @@
 <a href="https://www.voflix.com/" target="_blank">[voflix]</a>&nbsp;&nbsp;&nbsp;&nbsp;\
 <a href="https://live.fanmingming.com/player/?vurl=https://0472.org/hls/cctv13.m3u8" target="_blank">[m3u8播放器]</a>&nbsp;&nbsp;&nbsp;&nbsp;
 
+**公网IP地址查询**`路由跟踪、域名检测` 
+&nbsp;&nbsp;&nbsp;&nbsp;\
+
 **网盘**`百度、天翼、阿里` 
 &nbsp;&nbsp;&nbsp;&nbsp;\
 <a href="https://cloud.189.cn/web/login.html" target="_blank">[天翼网盘]</a>&nbsp;&nbsp;&nbsp;&nbsp;

@@ -1,3 +1,3 @@
 # sunkus.github.io
-For Cnnet
+Cnnet
 

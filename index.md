@@ -33,7 +33,6 @@
 
 **导航**`导航`  
 <a href="http://sunkus.ysepan.com/" target="_blank">[ys168]</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.123pan.com/s/LPqA-E1vq" target="_blank">[123软件]</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.a.cool/#12" target="_blank">[阿酷导航]</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.8kmm.com/ai" target="_blank">[AI导航]</a>&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -54,7 +53,6 @@
 <a href="https://sunkus.lanzoux.com/b00zakeid" target="_blank">[蓝奏云EXE软件]</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://sunkus.lanzouw.com/b011q89ub" target="_blank">[蓝奏云应用软件]</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://sunkus.lanzouw.com/b011zxpub" target="_blank">[蓝奏云APK软件]</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.123pan.com/s/LPqA-E1vq" target="_blank">[123网盘软件]</a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 **听歌**  
 <a href="https://music.163.com/#/discover/toplist?id=3778678" target="_blank">[网易在线听歌]</a>&nbsp;&nbsp;&nbsp;&nbsp;  

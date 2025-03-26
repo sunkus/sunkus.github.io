@@ -40,7 +40,6 @@
 <a href="https://team.qq.com/d/Maintenance/RemoteTools#/" target="_blank">[电脑管家小团队版]</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://team.qq.com/download/PCMgr_Setup.exe?pinid=K3PQU7EW" target="_blank">[电脑管家小团队版安装包]</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://sunkus.lanzoux.com/b00zakeid" target="_blank">[soft]</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.123pan.com/s/LPqA-E1vq" target="_blank">[123软件]</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://static.centbrowser.cn/win_stable/4.3.9.248/centbrowser_4.3.9.248.exe" target="_blank">[百分浏览器]</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://dl-cdn.oray.com/sunlogin/windows/SunloginClient_12.6.0.48685.exe
 " target="_blank">[向日葵]</a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -50,8 +49,7 @@
 <a href="/soft/清除历史打印数据.bat" target="_blank">[清除历史打印数据]</a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 **蓝奏云**  
-<a href="https://sunkus.lanzoux.com/b00zakeid" target="_blank">[蓝奏云EXE软件]</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://sunkus.lanzouw.com/b011q89ub" target="_blank">[蓝奏云应用软件]</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://sunkus.lanzoux.com/b00zakeid" target="_blank">[蓝奏云SOFT软件]</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://sunkus.lanzouw.com/b011zxpub" target="_blank">[蓝奏云APK软件]</a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 **听歌**  

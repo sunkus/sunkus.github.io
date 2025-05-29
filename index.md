@@ -36,9 +36,6 @@
 <a href="https://www.8kmm.com/ai" target="_blank">[AI导航]</a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 **常用**`常用`  
-<a href="https://team.qq.com/d/Maintenance/RemoteTools#/" target="_blank">[电脑管家小团队版]</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://team.qq.com/download/PCMgr_Setup.exe?pinid=K3PQU7EW" target="_blank">[电脑管家小团队版安装包]</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://sunkus.lanzoux.com/b00zakeid" target="_blank">[soft]</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://static.centbrowser.cn/win_stable/4.3.9.248/centbrowser_4.3.9.248.exe" target="_blank">[百分浏览器]</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://dl-cdn.oray.com/sunlogin/windows/SunloginClient_12.6.0.48685.exe
 " target="_blank">[向日葵]</a>&nbsp;&nbsp;&nbsp;&nbsp;

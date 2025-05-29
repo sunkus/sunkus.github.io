@@ -15,6 +15,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;\
 <a href="https://www.yuque.com/dashboard" target="_blank">[工作台-语雀]</a>&nbsp;&nbsp;&nbsp;&nbsp; 
 <a href="https://yiyan.baidu.com/" target="_blank">[文心一言-百度]</a>&nbsp;&nbsp;&nbsp;&nbsp; \
+<a href="https://chat.deepseek.com/" target="_blank">[DeepSeek]</a>&nbsp;&nbsp;&nbsp;&nbsp; \
 
 
 **公网IP地址查询**`路由跟踪、域名检测` 

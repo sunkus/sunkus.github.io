@@ -10,7 +10,6 @@
 <a href="https://www.cditv.cn/show-192-1-1.html" target="_blank">[成都电视]</a>&nbsp;&nbsp;&nbsp;&nbsp;  \
 <a href="http://player.tingfm.com/?id=155" target="_blank">[四川新闻广播]</a>&nbsp;&nbsp;&nbsp;&nbsp;  \
 <a href="https://music.163.com/#/discover/toplist?id=3778678" target="_blank">[网易在线听歌]</a>&nbsp;&nbsp;&nbsp;&nbsp;  \
-<a href="https://www.voflix.com/" target="_blank">[voflix]</a>&nbsp;&nbsp;&nbsp;&nbsp;\
 <a href="https://live.fanmingming.com/player/?vurl=https://0472.org/hls/cctv13.m3u8" target="_blank">[m3u8播放器]</a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 **工具**`工具` 

@@ -19,8 +19,9 @@
 **工具**`工具` 
 &nbsp;&nbsp;&nbsp;&nbsp;\
 <a href="https://www.yuque.com/dashboard" target="_blank">[工作台-语雀]</a>&nbsp;&nbsp;&nbsp;&nbsp; 
-<a href="https://yiyan.baidu.com/" target="_blank">[文心一言-百度]</a>&nbsp;&nbsp;&nbsp;&nbsp; 
-<a href="https://chat.deepseek.com/" target="_blank">[DeepSeek]</a>&nbsp;&nbsp;&nbsp;&nbsp; \
+<a href="https://www.doubao.com/" target="_blank">[豆包]</a>&nbsp;&nbsp;&nbsp;&nbsp; 
+<a href="https://chat.deepseek.com/" target="_blank">[DeepSeek]</a>&nbsp;&nbsp;&nbsp;&nbsp; 
+<a href="https://tugaigai.com/online_ps/" target="_blank">[图改改在线PS]</a>&nbsp;&nbsp;&nbsp;&nbsp; \
 
 
 **公网IP地址查询**`路由跟踪、域名检测` 

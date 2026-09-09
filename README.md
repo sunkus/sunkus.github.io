@@ -1,3 +1,3 @@
 # sunkus.github.io
-Cnnet
+Github
 

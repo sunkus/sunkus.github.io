@@ -3,11 +3,13 @@
 <a href="https://Github.com" target="_blank">[Github.com]</a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-**网盘**`百度、天翼、阿里` 
+**网盘**`百度、天翼、阿里、蓝奏云**  
 &nbsp;&nbsp;&nbsp;&nbsp;\
 
 <a href="https://www.alipan.com/drive/file/all" target="_blank">[阿里网盘]</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://cloud.189.cn/web/family/file/folder/624601182408795052" target="_blank">[天翼网盘]</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://sunkus.lanzoux.com/b00zakeid" target="_blank">[蓝奏云SOFT软件]</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://sunkus.lanzouw.com/b011zxpub" target="_blank">[蓝奏云APK软件]</a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 **FM**`清晨音乐台` 
 &nbsp;&nbsp;&nbsp;&nbsp;\
@@ -20,6 +22,7 @@
 **工具**`工具` 
 &nbsp;&nbsp;&nbsp;&nbsp;\
 <a href="https://www.yuque.com/dashboard" target="_blank">[工作台-语雀]</a>&nbsp;&nbsp;&nbsp;&nbsp; 
+<a href="https://yuanbao.tencent.com/" target="_blank">[元宝]</a>&nbsp;&nbsp;&nbsp;&nbsp; 
 <a href="https://www.doubao.com/" target="_blank">[豆包]</a>&nbsp;&nbsp;&nbsp;&nbsp; 
 <a href="https://chat.deepseek.com/" target="_blank">[DeepSeek]</a>&nbsp;&nbsp;&nbsp;&nbsp; 
 <a href="https://tugaigai.com/online_ps/" target="_blank">[图改改在线PS]</a>&nbsp;&nbsp;&nbsp;&nbsp; 
@@ -54,9 +57,6 @@
 <a href="/soft/内网IP检测工具.exe" target="_blank">[内网IP检测工具]</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="/soft/bcbc.exe" target="_blank">[bcbc]</a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-**蓝奏云**  
-<a href="https://sunkus.lanzoux.com/b00zakeid" target="_blank">[蓝奏云SOFT软件]</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://sunkus.lanzouw.com/b011zxpub" target="_blank">[蓝奏云APK软件]</a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 **听歌**  
 <a href="https://music.163.com/#/discover/toplist?id=3778678" target="_blank">[网易在线听歌]</a>&nbsp;&nbsp;&nbsp;&nbsp;  

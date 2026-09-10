@@ -6,7 +6,7 @@
 **网盘**`百度、天翼、阿里` 
 &nbsp;&nbsp;&nbsp;&nbsp;\
 
-<a href="https://www.alipan.com/drive/file/all/backup/6740a6750b3bfae7a60f40c5a61c281d013d721e" target="_blank">[阿里网盘]</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.alipan.com/drive/file/all" target="_blank">[阿里网盘]</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://cloud.189.cn/web/family/file/folder/624601182408795052" target="_blank">[天翼网盘]</a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 **FM**`清晨音乐台` 
@@ -51,6 +51,8 @@
 <a href="http://pan.zzu.cc:99/d/Ali/WPS2019_Pro.exe" target="_blank">[wps2019]</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="/soft/清除历史打印数据.bat" target="_blank">[清除历史打印数据]</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="/soft/内网IP检测工具.exe" target="_blank">[内网IP检测工具]</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="/soft/bcbc.exe" target="_blank">[bcbc]</a>&nbsp;&nbsp;&nbsp;&nbsp;
+
 **蓝奏云**  
 <a href="https://sunkus.lanzoux.com/b00zakeid" target="_blank">[蓝奏云SOFT软件]</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://sunkus.lanzouw.com/b011zxpub" target="_blank">[蓝奏云APK软件]</a>&nbsp;&nbsp;&nbsp;&nbsp;

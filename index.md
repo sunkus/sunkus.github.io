@@ -58,8 +58,7 @@
 
 **听歌**  
 <a href="https://music.163.com/#/discover/toplist?id=3778678" target="_blank">[网易在线听歌]</a>&nbsp;&nbsp;&nbsp;&nbsp;  
-**歌曲MPG**  
-<a href="https://www.ktvxg.com/single.aspx?Page=1" target="_blank">[ktvxg]</a>&nbsp;&nbsp;&nbsp;&nbsp;  
+
 **监控**  
 <a href="https://www.hikvision.com/content/dam/hikvision/cn/ServiceSupport/Downloads/desktop-software/hikvision-tools%EF%BC%88%E5%90%ABsadp%E3%80%81%E5%BD%95%E5%83%8F%E5%AE%B9%E9%87%8F%E8%AE%A1%E7%AE%97%E7%AD%89%E5%B7%A5%E5%85%B7%EF%BC%89/SADPTool.zip" target="_blank">[海康设备网络搜索软件（SADP V3.0.4.9]</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.hikvision.com/cn/support/Downloads/Desktop-Application/" target="_blank">[海康官网]</a>&nbsp;&nbsp;&nbsp;&nbsp;  
 

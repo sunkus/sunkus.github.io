@@ -1,5 +1,3 @@
-**Github.com**
-&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 **网盘**`百度、天翼、阿里、蓝奏云**  
@@ -7,7 +5,8 @@
 <a href="https://cloud.189.cn/web/family/file/folder/624601182408795052" target="_blank">[天翼网盘]</a>｜
 <a href="https://pan.baidu.com/disk/main" target="_blank">[百度网盘]</a>｜
 <a href="https://sunkus.lanzoux.com/b00zakeid" target="_blank">[蓝奏云SOFT]</a>｜
-<a href="https://sunkus.lanzouw.com/b011zxpub" target="_blank">[蓝奏云APK]</a>｜
+<a href="https://sunkus.lanzouw.com/b011zxpub" target="_blank">[rustdesk1.4.9]</a>｜
+<a href="https://developer2.lanrar.com/file/?VDICPAAxUGFTWlZuCz5WOgY5AztfcgdwC39TIVNrUzcGdQY6CHgAZVUtUDIDeVxkVSJQLVcwAjYFXVRkUjoGKVQxAi0AOFAiU2NWaQszVjIGAwNvX2QHOAs/U2RTNlNiBjMGZghlAGZVMVAgAzFcLlUyUGdXPAI0BTVUYFI6BjRUZgJzAC1QdFM4VjILb1ZlBmoDKV8wBzwLI1NkUzdTfQY/BmAINgAwVWFQMwM1XGpVNlA2Vz0COQU7VDZSPgY+VGQCMwBpUDNTNFZlC2xWbwY/A2RfMQdgCz9TMVNqU2IGKAY0CC0AMVUlUHMDJFw4VX1QPFdsAj0FM1RgUjcGPlRnAmUAbVAiU3FWaQsyVjIGOgM7XzEHMgs0U2xTOFNjBjIGYghlAGZVLVAoA3FcO1VjUCJXNQIwBSRUJ1J+BnBUaQJkAGpQPFM8VjcLblZlBmQDNF8zByMLeVM8U39TbwY3BmAIbQB6VTJQNwNlXHNVN1BtVyYCMgUwVGpSIAYhVDACOgAqUGpTWlZjCzRWagZsAyhfJgdxC3VTJVNqUw0GcwYwCGgAZA==" target="_blank">[蓝奏云APK]</a>
 
 **FM**`清晨音乐台` 
 &nbsp;&nbsp;&nbsp;&nbsp;\
@@ -79,6 +78,8 @@
 <span>电脑：[HP <a href="https://support.hp.com/cn-zh/drivers">驱动</a>/<a href="https://support.hp.com/cn-zh/checkwarranty">保修</a>/<a href="https://support.hpicss.com/ascindex_detail.aspx">网点</a>/<a href="https://support.hp.com/cn-zh/drivers/selfservice/hp-zhan-66-pro-14-g4-notebook-pc/37935365">战66驱动</a>/<a href="https://h30318.www3.hp.com/pub/softpaq/sp112501-113000/sp112816.exe">串行IO</a>/<a href="https://h30318.www3.hp.com/pub/softpaq/sp111001-111500/sp111442.exe">声卡</a>｜Lenove <a href="https://newsupport.lenovo.com.cn/">驱动</a>/<a href="https://newsupport.lenovo.com.cn/guardeploySearch.html">保修</a>/<a href="https://newsupport.lenovo.com.cn/serverNet.html">网点</a>]</span>
 <br>
 **友情链接**  
+**Github.com**
+|
 |<a href="http://sunkus.ys168.com" target="_blank">[ys168网盘]</a>&nbsp;&nbsp;&nbsp;&nbsp;
 |<a href="http://www.ccho.cc/bc/" target="_blank">[BC技术服务]</a>&nbsp;&nbsp;&nbsp;&nbsp;
 [技术服务](https://sunkus.github.io)&nbsp;&nbsp;&nbsp;&nbsp;  

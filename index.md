@@ -1,4 +1,3 @@
-
 <a href="https://github.com" target="_blank">**Github.com**</a>
 
 **网盘**`百度、天翼、阿里、蓝奏云**  
@@ -85,3 +84,60 @@
 |<a href="http://www.ccho.cc/bc/" target="_blank">[BC技术服务]</a>&nbsp;&nbsp;&nbsp;&nbsp;
 [技术服务](https://sunkus.github.io)&nbsp;&nbsp;&nbsp;&nbsp;  
 ----------
+
+<!-- 右侧信息块：建站天数 / 最近更新天数 / 当前日期 -->
+<aside id="site-info">
+  <div class="si-row"><span class="si-ico">📅</span><span>现在：<b id="now-date">加载中…</b></span></div>
+  <div class="si-row"><span class="si-ico">🚀</span><span>建站：<b id="site-age">…</b></span></div>
+  <div class="si-row"><span class="si-ico">🛠</span><span>更新：<b id="last-update">…</b></span></div>
+</aside>
+
+{% raw %}
+<style>
+  #site-info {
+    position: fixed;
+    right: 18px;
+    top: 18px;
+    width: 230px;
+    padding: 12px 14px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    background: #fff;
+    font-size: 13px;
+    line-height: 1.9;
+    box-shadow: 0 2px 10px rgba(0,0,0,.08);
+    z-index: 999;
+  }
+  #site-info .si-row { display: flex; align-items: flex-start; gap: 4px; }
+  #site-info .si-ico { flex: 0 0 auto; }
+  #site-info b { font-weight: 600; }
+  @media (max-width: 760px) {
+    #site-info { position: static; width: auto; margin: 12px 0; }
+  }
+</style>
+
+<script>
+  // ===== 只需改这里 =====
+  const SITE_LAUNCH_DATE = '2022-01-01';   // ← 改成你真实的建站日期（YYYY-MM-DD）
+  const LAST_UPDATE_DATE  = '2026-09-18';  // ← 每次更新页面时改成当天日期
+  // =====================
+
+  function pad(n) { return String(n).padStart(2, '0'); }
+  function fmtDate(d) {
+    return d.getFullYear() + '-' + pad(d.getMonth()+1) + '-' + pad(d.getDate())
+      + ' ' + pad(d.getHours()) + ':' + pad(d.getMinutes()) + ':' + pad(d.getSeconds());
+  }
+  function daysBetween(start, end) {
+    return Math.floor((end - new Date(start)) / 86400000);
+  }
+  function tick() {
+    var now = new Date();
+    document.getElementById('now-date').textContent = fmtDate(now);
+    document.getElementById('site-age').textContent = daysBetween(SITE_LAUNCH_DATE, now) + ' 天';
+    var d = daysBetween(LAST_UPDATE_DATE, now);
+    document.getElementById('last-update').textContent = LAST_UPDATE_DATE + '（' + d + ' 天前）';
+  }
+  tick();
+  setInterval(tick, 1000);
+</script>
+{% endraw %}

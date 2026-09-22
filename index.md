@@ -84,7 +84,8 @@
 |
 |<a href="http://sunkus.ys168.com" target="_blank">[ys168网盘]</a>&nbsp;&nbsp;&nbsp;&nbsp;
 |<a href="http://www.ccho.cc/bc/" target="_blank">[BC技术服务]</a>&nbsp;&nbsp;&nbsp;&nbsp;
-[技术服务](https://sunkus.github.io)&nbsp;&nbsp;&nbsp;&nbsp;  
+|[技术服务](https://sunkus.github.io)&nbsp;&nbsp;&nbsp;&nbsp;  
+|<a href="/soft/一键清除垃圾.bat" target="_blank">[一键清除垃圾]</a>&nbsp;&nbsp;&nbsp;&nbsp;
 ----------
 
 <!-- 右侧信息块：建站天数 / 最近更新天数 / 当前日期 -->

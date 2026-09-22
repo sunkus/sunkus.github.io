@@ -80,12 +80,10 @@
 <span>电脑：[HP <a href="https://support.hp.com/cn-zh/drivers">驱动</a>/<a href="https://support.hp.com/cn-zh/checkwarranty">保修</a>/<a href="https://support.hpicss.com/ascindex_detail.aspx">网点</a>/<a href="https://support.hp.com/cn-zh/drivers/selfservice/hp-zhan-66-pro-14-g4-notebook-pc/37935365">战66驱动</a>/<a href="https://h30318.www3.hp.com/pub/softpaq/sp112501-113000/sp112816.exe">串行IO</a>/<a href="https://h30318.www3.hp.com/pub/softpaq/sp111001-111500/sp111442.exe">声卡</a>｜Lenove <a href="https://newsupport.lenovo.com.cn/">驱动</a>/<a href="https://newsupport.lenovo.com.cn/guardeploySearch.html">保修</a>/<a href="https://newsupport.lenovo.com.cn/serverNet.html">网点</a>]</span>
 <br>
 **友情链接**  
-**Github.com**
-|
-|<a href="http://sunkus.ys168.com" target="_blank">[ys168网盘]</a>&nbsp;&nbsp;&nbsp;&nbsp;
-|<a href="http://www.ccho.cc/bc/" target="_blank">[BC技术服务]</a>&nbsp;&nbsp;&nbsp;&nbsp;
-|[技术服务](https://sunkus.github.io)&nbsp;&nbsp;&nbsp;&nbsp;  
-|<a href="/soft/一键清除垃圾.bat" target="_blank">[一键清除垃圾]</a>&nbsp;&nbsp;&nbsp;&nbsp;
+|<a href="http://sunkus.ys168.com" target="_blank">[**ys168网盘**]</a>&nbsp;&nbsp;&nbsp;&nbsp;
+|<a href="http://www.ccho.cc/bc/" target="_blank">[**BC技术服务**]</a>&nbsp;&nbsp;&nbsp;&nbsp;
+|<a href="/soft/一键清除垃圾.bat" target="_blank">[**一键清除垃圾**]</a>&nbsp;&nbsp;&nbsp;&nbsp;
+
 ----------
 
 <!-- 右侧信息块：建站天数 / 最近更新天数 / 当前日期 -->

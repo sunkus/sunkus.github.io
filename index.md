@@ -6,9 +6,7 @@
 <a href="https://pan.baidu.com/disk/main" target="_blank">[百度网盘]</a>｜
 <a href="https://sunkus.lanzoux.com/b00zakeid" target="_blank">[蓝奏云SOFT]</a>｜
 <a href="https://sunkus.lanzouw.com/b011zxpub" target="_blank">[蓝奏云APK]</a>｜
-<a href="https://sunkus.lanzoux.com/iD7tE48xgy1c" target="_blank">[rustdesk1.4.9电脑版]</a>
-<a href="https://sunkus.lanzouu.com/i0lkt497guwj" target="_blank">[rustdesk1.4.8(ID登录电脑可远控版)]</a>
-<a href="https://sunkus.lanzouu.com/i7FN3497hbba" target="_blank">[rustdesk1.4.8(ID登录手机可远控版)]</a>
+<a href="https://filehelper.weixin.qq.com/" target="_blank">[微信文件助手]</a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 **FM**`清晨音乐台` 
 &nbsp;&nbsp;&nbsp;&nbsp;\
@@ -26,6 +24,9 @@
 <a href="https://chat.deepseek.com/" target="_blank">[DeepSeek]</a>&nbsp;&nbsp;&nbsp;&nbsp; 
 <a href="https://tugaigai.com/online_ps/" target="_blank">[图改改在线PS]</a>&nbsp;&nbsp;&nbsp;&nbsp; 
 <a href="http://test6.ustc.edu.cn/" target="_blank">[中国科学技术大学测速]</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://sunkus.lanzoux.com/iD7tE48xgy1c" target="_blank">[rustdesk1.4.9电脑版]</a>
+<a href="https://sunkus.lanzouu.com/i0lkt497guwj" target="_blank">[rustdesk1.4.8(ID登录电脑可远控版)]</a>
+<a href="https://sunkus.lanzouu.com/i7FN3497hbba" target="_blank">[rustdesk1.4.8(ID登录手机可远控版)]</a>
 
 **软件**`pro`  
 <a href="http://pan.zzu.cc:99/d/Ali/WPS2019_Pro.exe" target="_blank">[wps2019]</a>&nbsp;&nbsp;&nbsp;&nbsp;

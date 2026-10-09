@@ -11,7 +11,9 @@
 **FM**`清晨音乐台` 
 &nbsp;&nbsp;&nbsp;&nbsp;\
 <a href="https://www.ximalaya.com/radio/1011" target="_blank">[清晨音乐台]</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://tv.cctv.com/live" target="_blank">[央视在线]</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.sctv.com/watchTV" target="_blank">[四川电视]</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://tv.cctv.com/live" target="_blank">[央视在线]</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.yangshipin.cn/tv/home?pid=600001811" target="_blank">[央视频直播]</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="http://www.sctv.com/watchTV" target="_blank">[四川电视]</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.cditv.cn/show-192-1-1.html" target="_blank">[成都电视]</a>&nbsp;&nbsp;&nbsp;&nbsp;  \
 <a href="http://player.tingfm.com/?id=155" target="_blank">[四川新闻广播]</a>&nbsp;&nbsp;&nbsp;&nbsp;  \
 <a href="https://music.163.com/#/discover/toplist?id=3778678" target="_blank">[网易在线听歌]</a>&nbsp;&nbsp;&nbsp;&nbsp;  \

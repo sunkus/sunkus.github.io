@@ -1,12 +1,14 @@
 <a href="https://github.com" target="_blank">**Github.com**</a>
 
+**微信**
+<a href="https://filehelper.weixin.qq.com/" target="_blank">[微信文件助手]</a>&nbsp;&nbsp;&nbsp;&nbsp;
+
 **网盘**`百度、天翼、阿里、蓝奏云**  
 <span><a href="https://www.alipan.com/drive/file/all" target="_blank">[阿里网盘]</a>｜</span>
 <a href="https://cloud.189.cn/web/family/file/folder/624601182408795052" target="_blank">[天翼网盘]</a>｜
 <a href="https://pan.baidu.com/disk/main" target="_blank">[百度网盘]</a>｜
 <a href="https://sunkus.lanzoux.com/b00zakeid" target="_blank">[蓝奏云SOFT]</a>｜
 <a href="https://sunkus.lanzouw.com/b011zxpub" target="_blank">[蓝奏云APK]</a>｜
-<a href="https://filehelper.weixin.qq.com/" target="_blank">[微信文件助手]</a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 **FM**`清晨音乐台` 
 &nbsp;&nbsp;&nbsp;&nbsp;\
@@ -55,6 +57,9 @@
 <a href="http://sunkus.ysepan.com/" target="_blank">[ys168]</a>｜
 <a href="https://www.a.cool/#12" target="_blank">[阿酷导航]</a>｜
 <a href="https://www.8kmm.com/ai" target="_blank">[AI导航]</a>｜
+
+**软件站**`soft` 
+<a href="https://www.ghxi.com/" target="_blank">[果核剥壳]</a>｜
 
 
 **听歌**  

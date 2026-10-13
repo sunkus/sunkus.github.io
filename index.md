@@ -31,6 +31,7 @@
 <a href="https://sunkus.lanzoux.com/iD7tE48xgy1c" target="_blank">[rustdesk1.4.9电脑版]</a>
 <a href="https://sunkus.lanzouu.com/i0lkt497guwj" target="_blank">[rustdesk1.4.8(ID登录电脑可远控版)]</a>
 <a href="https://sunkus.lanzouu.com/i7FN3497hbba" target="_blank">[rustdesk1.4.8(ID登录手机可远控版)]</a>
+<a href="https://eternity4719.github.io/HowToLiveBetter/" target="_blank">[《高性价比人生指南》]</a>
 
 **软件**`pro`  
 <a href="http://pan.zzu.cc:99/d/Ali/WPS2019_Pro.exe" target="_blank">[wps2019]</a>&nbsp;&nbsp;&nbsp;&nbsp;

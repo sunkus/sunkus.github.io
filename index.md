@@ -22,6 +22,7 @@
 
 **工具**`工具` 
 &nbsp;&nbsp;&nbsp;&nbsp;\
+<a href="http://cencrack.com/" target="_blank">[在线工具包]</a>&nbsp;&nbsp;
 <a href="https://www.yuque.com/dashboard" target="_blank">[工作台-语雀]</a>&nbsp;&nbsp;&nbsp;&nbsp; 
 <a href="https://yuanbao.tencent.com/" target="_blank">[元宝]</a>&nbsp;&nbsp;&nbsp;&nbsp; 
 <a href="https://www.doubao.com/" target="_blank">[豆包]</a>&nbsp;&nbsp;&nbsp;&nbsp; 
@@ -34,7 +35,7 @@
 <a href="https://eternity4719.github.io/HowToLiveBetter/" target="_blank">[《高性价比人生指南》]</a>
 
 **软件**`pro`  
-<a href="http://pan.zzu.cc:99/d/Ali/WPS2019_Pro.exe" target="_blank">[wps2019]</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://4275.com/qth1ku" target="_blank">[wps2023]</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="/soft/清除历史打印数据.bat" target="_blank">[清除历史打印数据]</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="/soft/内网IP检测工具.exe" target="_blank">[内网IP检测工具]</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="/soft/bcbc.exe" target="_blank">[bcbc]</a>&nbsp;&nbsp;&nbsp;&nbsp;

@@ -69,12 +69,10 @@
 [<a href="https://423down.lanzouo.com/b0f193zcb" title="优酷/爱奇艺/腾讯视频去广告版">视频</a>][<a href="https://423down.lanzouo.com/b0f1akq0d">驱动</a>][<a href="https://cmd.lanzoux.com/iba987a">32位百分</a>]</span>
 <span>[<a href="https://webcdn.m.qq.com/spcmgr/download/DeskGo_3_3_1477_127_lite.exe">桌面整理</a>]</span>
 
+**链接**&nbsp;&nbsp;[<a href="http://sunkus.ysepan.com/" target="_blank">**ys168网盘**</a>]&nbsp;
+[<a href="http://www.ccho.cc/bc/" target="_blank">BC技术服务</a>]&nbsp;
+[<a href="/soft/一键清除垃圾.bat" target="_blank">一键清除垃圾</a>]&nbsp;
 <span>打印：[HP <a href="https://support.hp.com/cn-zh/drivers">驱动</a>｜Lenove <a href="https://newsupport.lenovo.com.cn/">驱动</a>]</span>
-
-**链接**  
-|<a href="http://sunkus.ysepan.com/" target="_blank">[**ys168网盘**]</a>&nbsp;&nbsp;&nbsp;&nbsp;
-|<a href="http://www.ccho.cc/bc/" target="_blank">[**BC技术服务**]</a>&nbsp;&nbsp;&nbsp;&nbsp;
-|<a href="/soft/一键清除垃圾.bat" target="_blank">[**一键清除垃圾**]</a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 ----------
 

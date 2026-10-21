@@ -1,5 +1,11 @@
 <a href="https://github.com" target="_blank">**Github.com**</a>
 
+**Ai**
+<a href="https://yuanbao.tencent.com/" target="_blank"><span style="color:red;">**[元宝]**</span> </a>&nbsp;
+<a href="https://www.workbuddy.cn/" target="_blank"><span style="color:red;">**[Work巴迪]**</span></a>&nbsp;
+<a href="https://yuanbao.tencent.com/" target="_blank">[元宝]</a>&nbsp;
+<a href="https://chat.deepseek.com/" target="_blank">[DeepSeek]</a>&nbsp;
+
 **微信**
 <a href="https://filehelper.weixin.qq.com/" target="_blank">[微信文件助手]</a>&nbsp;&nbsp;&nbsp;&nbsp;
 

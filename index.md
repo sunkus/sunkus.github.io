@@ -1,15 +1,16 @@
 <a href="https://github.com" target="_blank">**Github.com**</a>
 
-**Ai**
-<a href="https://yuanbao.tencent.com/" target="_blank"><span style="color:red;">**[元宝]**</span> </a>&nbsp;
+**Ai**&nbsp;&nbsp;
+<a href="https://www.doubao.com/" target="_blank"><span style="color:red;">**[豆包]**</span> </a>&nbsp;
 <a href="https://www.workbuddy.cn/" target="_blank"><span style="color:red;">**[Work巴迪]**</span></a>&nbsp;
-<a href="https://yuanbao.tencent.com/" target="_blank">[元宝]</a>&nbsp;
+<a href="https://yuanbao.tencent.com/" target="_blank"><span style="color:red;">**[元宝]**</span> </a>&nbsp;
 <a href="https://chat.deepseek.com/" target="_blank">[DeepSeek]</a>&nbsp;
+<a href="https://tugaigai.com/online_ps/" target="_blank">span style="color:green;">**[在线PS]**</span></a>&nbsp;｜
+<a href="https://www.a.cool/#12" target="_blank">[阿酷导航]</a>｜
+<a href="https://www.8kmm.com/ai" target="_blank">[AI导航]</a>｜
+<a href="https://filehelper.weixin.qq.com/" target="_blank">span style="color:green;">**[微信文件助手]**</span></a>&nbsp;｜
 
-**微信**
-<a href="https://filehelper.weixin.qq.com/" target="_blank">[微信文件助手]</a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-**网盘**`百度、天翼、阿里、蓝奏云**  
+**网盘**&nbsp;&nbsp;
 <span><a href="https://www.alipan.com/drive/file/all" target="_blank">[阿里网盘]</a>｜</span>
 <a href="https://cloud.189.cn/web/family/file/folder/624601182408795052" target="_blank">[天翼网盘]</a>｜
 <a href="https://pan.baidu.com/disk/main" target="_blank">[百度网盘]</a>｜
@@ -30,10 +31,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;\
 <a href="http://cencrack.com/" target="_blank">[在线工具包]</a>&nbsp;&nbsp;
 <a href="https://www.yuque.com/dashboard" target="_blank">[工作台-语雀]</a>&nbsp;&nbsp;&nbsp;&nbsp; 
-<a href="https://yuanbao.tencent.com/" target="_blank">[元宝]</a>&nbsp;&nbsp;&nbsp;&nbsp; 
-<a href="https://www.doubao.com/" target="_blank">[豆包]</a>&nbsp;&nbsp;&nbsp;&nbsp; 
-<a href="https://chat.deepseek.com/" target="_blank">[DeepSeek]</a>&nbsp;&nbsp;&nbsp;&nbsp; 
-<a href="https://tugaigai.com/online_ps/" target="_blank">[图改改在线PS]</a>&nbsp;&nbsp;&nbsp;&nbsp; 
 <a href="http://test6.ustc.edu.cn/" target="_blank">[中国科学技术大学测速]</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://sunkus.lanzoux.com/iD7tE48xgy1c" target="_blank">[rustdesk1.4.9电脑版]</a>
 <a href="https://sunkus.lanzouu.com/i0lkt497guwj" target="_blank">[rustdesk1.4.8(ID登录电脑可远控版)]</a>
@@ -95,8 +92,8 @@
 
 <span>电脑：[HP <a href="https://support.hp.com/cn-zh/drivers">驱动</a>/<a href="https://support.hp.com/cn-zh/checkwarranty">保修</a>/<a href="https://support.hpicss.com/ascindex_detail.aspx">网点</a>/<a href="https://support.hp.com/cn-zh/drivers/selfservice/hp-zhan-66-pro-14-g4-notebook-pc/37935365">战66驱动</a>/<a href="https://h30318.www3.hp.com/pub/softpaq/sp112501-113000/sp112816.exe">串行IO</a>/<a href="https://h30318.www3.hp.com/pub/softpaq/sp111001-111500/sp111442.exe">声卡</a>｜Lenove <a href="https://newsupport.lenovo.com.cn/">驱动</a>/<a href="https://newsupport.lenovo.com.cn/guardeploySearch.html">保修</a>/<a href="https://newsupport.lenovo.com.cn/serverNet.html">网点</a>]</span>
 <br>
-**友情链接**  
-|<a href="http://sunkus.ys168.com" target="_blank">[**ys168网盘**]</a>&nbsp;&nbsp;&nbsp;&nbsp;
+**链接**  
+|<a href="http://sunkus.ysepan.com/" target="_blank">[**ys168网盘**]</a>&nbsp;&nbsp;&nbsp;&nbsp;
 |<a href="http://www.ccho.cc/bc/" target="_blank">[**BC技术服务**]</a>&nbsp;&nbsp;&nbsp;&nbsp;
 |<a href="/soft/一键清除垃圾.bat" target="_blank">[**一键清除垃圾**]</a>&nbsp;&nbsp;&nbsp;&nbsp;
 

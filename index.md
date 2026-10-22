@@ -1,4 +1,5 @@
-<a href="https://github.com" target="_blank">**Github.com**</a>
+[<a href="https://github.com" target="_blank">**Github.com**</a>]&nbsp;
+[<a href="https://www.2345.com/?ksunkus" target="_blank">**2345**</a>]
 
 **搜索**&nbsp;&nbsp;&nbsp;&nbsp;  
 <input type=text style="border:1px solid;padding:0 8px;border-radius:4px;width:200px;height:38px;font-size:18px" id="keyboard"  onMouseOver="this.focus()" onKeyDown="if (event.keyCode==13) {baidu.onclick()}">

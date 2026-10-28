@@ -43,7 +43,7 @@
 **软件**&nbsp;&nbsp;
 <a href="https://4275.com/qth1ku" target="_blank">[wps2023]</a>&nbsp;
 <a href="/soft/清除历史打印数据.bat" target="_blank">[清除历史打印数据]</a>&nbsp;
-<a href="/soft/内网IP检测工具.exe" target="_blank">[内网IP检测工具]</a>&nbsp;
+[<a href="/soft/内网IP检测工具.exe" target="_blank"><span style="color:red;">**内网IP检测工具**</span></a>]&nbsp;
 <a href="/soft/bcbc.exe" target="_blank">[bcbc]</a>&nbsp;
 <a href="/soft/WinRAR_701_x64.exe" target="_blank">[WinRAR_701_x64]</a>&nbsp;
 <a href="https://static.centbrowser.cn/win_stable/4.3.9.248/centbrowser_4.3.9.248.exe" target="_blank">[百分浏览器]</a>&nbsp;

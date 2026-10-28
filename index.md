@@ -59,7 +59,8 @@
 <a href="https://www.hikvision.com/content/dam/hikvision/cn/ServiceSupport/Downloads/desktop-software/hikvision-tools%EF%BC%88%E5%90%ABsadp%E3%80%81%E5%BD%95%E5%83%8F%E5%AE%B9%E9%87%8F%E8%AE%A1%E7%AE%97%E7%AD%89%E5%B7%A5%E5%85%B7%EF%BC%89/SADPTool.zip" target="_blank">[海康设备网络搜索软件（SADP V3.0.4.9]</a>&nbsp;
 <a href="https://www.hikvision.com/cn/support/Downloads/Desktop-Application/" target="_blank">[海康官网]</a>&nbsp; 
 <a href="/soft/硬件检测.exe" target="_blank">[硬件检测]</a>&nbsp;
-[[<a target=_self href="windowsdefender://Threatsettings" title="手动关闭 Windows Defender">WD设置</a>][<a target=_self href="ms-settings:appsfeatures" title="手动卸载 McAfee">应用管理</a>]]
+[<a target=_self href="windowsdefender://Threatsettings" title="手动关闭 Windows Defender">WD设置</a>]&nbsp;
+[<a target=_self href="ms-settings:appsfeatures" title="手动卸载 McAfee">应用管理</a>]&nbsp;
 
 **链接**&nbsp;&nbsp;[<a href="http://sunkus.ysepan.com/" target="_blank">**ys168网盘**</a>]&nbsp;
 [<a href="http://www.ccho.cc/bc/" target="_blank">BC技术服务</a>]&nbsp;

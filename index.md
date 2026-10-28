@@ -58,78 +58,12 @@
 **监控**  
 <a href="https://www.hikvision.com/content/dam/hikvision/cn/ServiceSupport/Downloads/desktop-software/hikvision-tools%EF%BC%88%E5%90%ABsadp%E3%80%81%E5%BD%95%E5%83%8F%E5%AE%B9%E9%87%8F%E8%AE%A1%E7%AE%97%E7%AD%89%E5%B7%A5%E5%85%B7%EF%BC%89/SADPTool.zip" target="_blank">[海康设备网络搜索软件（SADP V3.0.4.9]</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.hikvision.com/cn/support/Downloads/Desktop-Application/" target="_blank">[海康官网]</a>&nbsp;&nbsp;&nbsp;&nbsp;  
 
-<span>[<a href="https://files.zohopublic.com.cn/public/workdrive-public/download/o9yvmb7d7797adb114b5e8a618e2437298213">硬件检测</a>][<a target=_self href="windowsdefender://Threatsettings" title="手动关闭 Windows Defender">WD设置</a>][<a target=_self href="ms-settings:appsfeatures" title="手动卸载 McAfee">应用管理</a>][<span>[<a href="https://cmd.lanzoux.com/b593997" title="蓝奏云分享">蓝奏</a>｜<a href="https://cloud.rainkavik.com/s/3VWsL?path=%2F">rainkavik</a>]</span>
-<span>[<a href="http://pan.zzu.cc:99/d/Ali/esd/W10_1947_x64_Soft.esd">W10_1947_x64</a>][<a href="http://pan.zzu.cc:99/d/Ali/esd/W11_1028_x64.esd">W11_1028_x64</a>][<a href="https://files.zohopublic.com.cn/public/workdrive-public/download/847us2e602c031a3e447baa108d31a6c1cc75">Office2021_x64</a>｜<a href="http://pan.zzu.cc:99/d/Ali/Office2016_Pro_Plus_vl_x64.exe">Office2016_x64</a>｜<a href="http://pan.zzu.cc:99/d/Ali/WPS2019_Pro.exe">WPS2019_Pro</a>]</span>
-<span>浏览器：[<a href="https://qiniu.zhyclound.cn/uploads/2023/01/04/EuYwHNWF_CB.exe?attname=CentBrowser_5.0.1002.295_x64.exe">百分</a>｜<a href="http://dl.google.com/release2/chrome/gfu3lptcra3hizbjcq3dbfrdnq_106.0.5249.119/106.0.5249.119_chrome_installer.exe">谷歌</a>]</span>
-<span>[<a href="https://qiniu.zhyclound.cn/uploads/2022/12/29/PCEbemU2_W11_IE.exe?attname=W11_IE.exe">W11_IE分离</a>]</span>
-<a href="https://cmd.lanzoux.com/i3y1qih">极点五笔</a>｜<a href="https://qiniu.zhyclound.cn/uploads/2022/12/27/rvMytAUn_WinRAR_x64.exe?attname=WinRAR_x64.exe">WinRAR</a>｜<a href="https://qiniu.zhyclound.cn/uploads/2023/01/04/IT2RbVgl_pot.exe?attname=PotPlaye_x64.exe" title="视频播放器">PotPlayer</a>｜<a href="https://qiniu.zhyclound.cn/uploads/2022/12/27/tIh6fiwv_TTPlayer_.exe?attname=TTPlayer_.exe" title="音频播放器">芊芊静听</a>｜<a href="https://files.zohopublic.com.cn/public/workdrive-public/download/847usca8c7a77da364dd8b3b2de8e11472f65">垃圾清理</a>
-
-<span>[<a href="https://files.zohopublic.com.cn/public/workdrive-public/download/o9yvm86e1a484a7154b77b2d6850728d72c85">钉钉</a>][<a href="https://dldir1.qq.com/weixin/Windows/WeChatSetup.exe">微信</a>][<a href="https://im.qq.com/pcqq">QQ</a>][<a href="https://www.huorong.cn/downloadfullv5.html">火绒</a>][<a href="https://cmd.lanzoux.com/icsdwyj">搜狗</a>][<a href="https://www.ieway.cn/evcapture.html">EV录屏</a>][<a href="https://www.logitech.com.cn/zh-cn/software/capture.html">罗技Capture</a>][<a href="http://www.ccho.cc/down/27.html">迅雷</a>]
-
-<span>
-[<a href="https://423down.lanzouo.com/b0f193zcb" title="优酷/爱奇艺/腾讯视频去广告版">视频</a>][<a href="https://423down.lanzouo.com/b0f1akq0d">驱动</a>][<a href="https://cmd.lanzoux.com/iba987a">32位百分</a>]</span>
-<span>[<a href="https://webcdn.m.qq.com/spcmgr/download/DeskGo_3_3_1477_127_lite.exe">桌面整理</a>]</span>
+[<a href="https://files.zohopublic.com.cn/public/workdrive-public/download/o9yvmb7d7797adb114b5e8a618e2437298213">硬件检测</a>][<a target=_self href="windowsdefender://Threatsettings" title="手动关闭 Windows Defender">WD设置</a>][<a target=_self href="ms-settings:appsfeatures" title="手动卸载 McAfee">应用管理</a>]|<a href="https://files.zohopublic.com.cn/public/workdrive-public/download/847usca8c7a77da364dd8b3b2de8e11472f65">垃圾清理</a>
 
 **链接**&nbsp;&nbsp;[<a href="http://sunkus.ysepan.com/" target="_blank">**ys168网盘**</a>]&nbsp;
 [<a href="http://www.ccho.cc/bc/" target="_blank">BC技术服务</a>]&nbsp;
 [<a href="/soft/一键清除垃圾.bat" target="_blank">一键清除垃圾</a>]&nbsp;
-<span>打印：[HP <a href="https://support.hp.com/cn-zh/drivers">驱动</a>｜Lenove <a href="https://newsupport.lenovo.com.cn/">驱动</a>]</span>
+打印：[HP <a href="https://support.hp.com/cn-zh/drivers">驱动</a>｜Lenove <a href="https://newsupport.lenovo.com.cn/">驱动</a>]
 
 ----------
 
-<!-- 右侧信息块：建站天数 / 最近更新天数 / 当前日期 -->
-<aside id="site-info">
-  <div class="si-row"><span class="si-ico">📅</span><span>现在：<b id="now-date">加载中…</b></span></div>
-  <div class="si-row"><span class="si-ico">🚀</span><span>建站：<b id="site-age">…</b></span></div>
-  <div class="si-row"><span class="si-ico">🛠</span><span>更新：<b id="last-update">…</b></span></div>
-</aside>
-
-{% raw %}
-<style>
-  #site-info {
-    position: fixed;
-    right: 18px;
-    top: 18px;
-    width: 230px;
-    padding: 12px 14px;
-    border: 1px solid #ddd;
-    border-radius: 10px;
-    background: #fff;
-    font-size: 13px;
-    line-height: 1.9;
-    box-shadow: 0 2px 10px rgba(0,0,0,.08);
-    z-index: 999;
-  }
-  #site-info .si-row { display: flex; align-items: flex-start; gap: 4px; }
-  #site-info .si-ico { flex: 0 0 auto; }
-  #site-info b { font-weight: 600; }
-  @media (max-width: 760px) {
-    #site-info { position: static; width: auto; margin: 12px 0; }
-  }
-</style>
-
-<script>
-  // ===== 只需改这里 =====
-  const SITE_LAUNCH_DATE = '2022-01-01';   // ← 改成你真实的建站日期（YYYY-MM-DD）
-  const LAST_UPDATE_DATE  = '2026-09-18';  // ← 每次更新页面时改成当天日期
-  // =====================
-
-  function pad(n) { return String(n).padStart(2, '0'); }
-  function fmtDate(d) {
-    return d.getFullYear() + '-' + pad(d.getMonth()+1) + '-' + pad(d.getDate())
-      + ' ' + pad(d.getHours()) + ':' + pad(d.getMinutes()) + ':' + pad(d.getSeconds());
-  }
-  function daysBetween(start, end) {
-    return Math.floor((end - new Date(start)) / 86400000);
-  }
-  function tick() {
-    var now = new Date();
-    document.getElementById('now-date').textContent = fmtDate(now);
-    document.getElementById('site-age').textContent = daysBetween(SITE_LAUNCH_DATE, now) + ' 天';
-    var d = daysBetween(LAST_UPDATE_DATE, now);
-    document.getElementById('last-update').textContent = LAST_UPDATE_DATE + '（' + d + ' 天前）';
-  }
-  tick();
-  setInterval(tick, 1000);
-</script>
-{% endraw %}

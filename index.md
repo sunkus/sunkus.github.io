@@ -1,4 +1,4 @@
-[首页地址](https://sunkus.github.io)  |[电视TV](https://sunkus.github.io/tv)  |[监控](https://sunkus.github.io/jiankong) 
+[首页地址](https://sunkus.github.io)  |[电视TV](https://sunkus.github.io/tv)  |[监控](https://sunkus.github.io/jiankong)   |[MyIP](https://sunkus.github.io/myip) 
 
 **搜索**&nbsp;&nbsp;&nbsp;&nbsp;  
 <input type=text style="border:1px solid;padding:0 8px;border-radius:4px;width:200px;height:38px;font-size:18px" id="keyboard"  onMouseOver="this.focus()" onKeyDown="if (event.keyCode==13) {baidu.onclick()}">

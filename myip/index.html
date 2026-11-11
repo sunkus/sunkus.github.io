@@ -1,0 +1,392 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>显示查询自己的IP地址</title>
+<meta name="description" content="全方位查询您的IP地址：国内出口IP、国外出口IP、WebRTC真实IP">
+<style>
+  :root{
+    --bg:#0f1419;
+    --bg2:#161d26;
+    --card:#1b242f;
+    --line:#2a3644;
+    --text:#e6edf3;
+    --muted:#8b98a5;
+    --accent:#4da3ff;
+    --ok:#3fb950;
+    --warn:#f0c040;
+    --bad:#f85149;
+    --shadow:0 8px 30px rgba(0,0,0,.35);
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif;
+    background:linear-gradient(160deg,var(--bg),var(--bg2));
+    color:var(--text);
+    min-height:100vh;
+    line-height:1.6;
+    -webkit-font-smoothing:antialiased;
+  }
+  .wrap{max-width:960px;margin:0 auto;padding:40px 20px 60px}
+
+  /* Header */
+  header{text-align:center;margin-bottom:36px}
+  .logo{
+    display:inline-flex;align-items:center;gap:12px;
+    font-size:22px;font-weight:700;letter-spacing:.5px;
+  }
+  .logo .dot{width:12px;height:12px;border-radius:50%;background:var(--ok);box-shadow:0 0 0 4px rgba(63,185,80,.18);animation:pulse 2s infinite}
+  @keyframes pulse{50%{box-shadow:0 0 0 9px rgba(63,185,80,0)}}
+  h1{font-size:26px;margin:18px 0 8px;font-weight:700}
+  .sub{color:var(--muted);font-size:15px}
+
+  /* 公网IP 大卡片 */
+  .hero{
+    background:linear-gradient(135deg,#1f3a5f,#1b4d6b);
+    border:1px solid rgba(77,163,255,.25);
+    border-radius:16px;padding:28px;text-align:center;
+    box-shadow:var(--shadow);margin-bottom:28px;position:relative;overflow:hidden;
+  }
+  .hero::after{content:"";position:absolute;inset:0;background:radial-gradient(circle at 85% 15%,rgba(77,163,255,.18),transparent 45%)}
+  .hero .label{font-size:13px;color:#a8c7ea;text-transform:uppercase;letter-spacing:2px}
+  .hero .ip{font-size:42px;font-weight:800;letter-spacing:1px;margin:10px 0;font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+  .hero .ip.small{font-size:30px}
+  .hero .loc{font-size:16px;color:#cfe0f0}
+  .hero .loc span{margin:0 6px;opacity:.5}
+  .badges{margin-top:14px;display:flex;gap:8px;justify-content:center;flex-wrap:wrap}
+  .badge{font-size:12px;padding:4px 12px;border-radius:20px;background:rgba(255,255,255,.1);border:1px solid rgba(255,255,255,.15)}
+  .badge.ok{background:rgba(63,185,80,.15);border-color:rgba(63,185,80,.35);color:#7ee787}
+  .badge.warn{background:rgba(240,192,64,.15);border-color:rgba(240,192,64,.35);color:#f0c040}
+
+  /* 卡片网格 */
+  .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:18px;margin-bottom:28px}
+  .card{
+    background:var(--card);border:1px solid var(--line);border-radius:14px;
+    padding:22px;box-shadow:var(--shadow);display:flex;flex-direction:column;
+  }
+  .card h3{font-size:15px;font-weight:600;margin-bottom:4px;display:flex;align-items:center;gap:8px}
+  .card .desc{font-size:13px;color:var(--muted);margin-bottom:14px}
+  .card .ip-box{
+    background:rgba(0,0,0,.25);border:1px dashed var(--line);border-radius:10px;
+    padding:14px;font-family:ui-monospace,Menlo,Consolas,monospace;font-size:18px;
+    text-align:center;word-break:break-all;min-height:52px;display:flex;align-items:center;justify-content:center;flex:1;
+  }
+  .card .ip-box.muted{color:var(--muted);font-size:14px;font-family:inherit}
+  .card .ip-box .ok{color:var(--ok)}
+  .card .ip-box .bad{color:var(--bad)}
+  .card .ip-box .warn{color:var(--warn)}
+  .card .foot{font-size:12px;color:var(--muted);margin-top:12px;text-align:center}
+  .icon{width:22px;height:22px;flex:none;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
+  .card.cn{--c:var(--ok)}.card.intl{--c:var(--accent)}.card.g{--c:var(--warn)}
+  .card h3{color:var(--c)}
+
+  /* 表格 */
+  .table-card{background:var(--card);border:1px solid var(--line);border-radius:14px;box-shadow:var(--shadow);overflow:hidden}
+  .table-card h2{font-size:16px;padding:18px 22px;border-bottom:1px solid var(--line)}
+  table{width:100%;border-collapse:collapse;font-size:14px}
+  td,th{padding:12px 22px;text-align:left;border-bottom:1px solid var(--line)}
+  tr:last-child td{border-bottom:none}
+  th{color:var(--muted);font-weight:500;width:40%}
+  td{font-family:ui-monospace,Menlo,Consolas,monospace;font-size:13px}
+  td .na{color:var(--muted);font-family:inherit}
+  .loader{display:inline-block;width:14px;height:14px;border:2px solid var(--line);border-top-color:var(--accent);border-radius:50%;animation:spin 1s linear infinite;vertical-align:-2px}
+  @keyframes spin{to{transform:rotate(360deg)}}
+
+  /* 按钮 */
+  .actions{text-align:center;margin:26px 0}
+  button{
+    background:var(--accent);color:#0b1220;border:none;padding:11px 26px;border-radius:9px;
+    font-size:14px;font-weight:600;cursor:pointer;transition:.15s;
+  }
+  button:hover{filter:brightness(1.12)}
+  button:active{transform:translateY(1px)}
+  .tip{color:var(--muted);font-size:13px;text-align:center;margin-top:10px}
+
+  /* 提示条 */
+  .notice{
+    display:none;background:rgba(248,81,73,.1);border:1px solid rgba(248,81,73,.3);
+    color:#ffa198;border-radius:10px;padding:12px 16px;font-size:13px;margin-bottom:24px;text-align:center;
+  }
+
+  footer{margin-top:40px;padding-top:22px;border-top:1px solid var(--line);text-align:center;font-size:12px;color:var(--muted)}
+  footer p{margin-bottom:6px}
+
+  @media(max-width:600px){
+    .wrap{padding:24px 14px 40px}
+    h1{font-size:21px}
+    .hero .ip{font-size:30px}
+    td,th{padding:10px 14px}
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="logo"><span class="dot"></span>MyIP · IP 地址查询</div>
+    <h1>全方位查询您的 IP 地址</h1>
+    <p class="sub">一键检测国内 / 国外出口 IP、真实地理位置与网络环境</p>
+  </header>
+
+  <div class="notice" id="notice"></div>
+
+  <!-- 主 IP 卡 -->
+  <div class="hero">
+    <div class="label">您的公网 IPv4 地址</div>
+    <div class="ip" id="mainIp"><span class="loader"></span></div>
+    <div class="loc" id="mainLoc"><span class="na">正在解析归属地…</span></div>
+    <div class="badges" id="mainBadges"></div>
+  </div>
+
+  <div class="grid">
+    <!-- 国内出口 -->
+    <div class="card cn">
+      <h3><svg class="icon" viewBox="0 0 24 24"><path d="M3 12h4l3-8 4 16 3-8h4"/></svg>从国内测试</h3>
+      <div class="desc">访问国内站点所使用的出口 IP</div>
+      <div class="ip-box" id="ipCn"><span class="na">检测中…</span></div>
+      <div class="foot" id="locCn"></div>
+    </div>
+
+    <!-- 国外出口 -->
+    <div class="card intl">
+      <h3><svg class="icon" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3a14 14 0 0 1 0 18M12 3a14 14 0 0 0 0 18"/></svg>从国外测试</h3>
+      <div class="desc">访问未被限制的境外站点所使用的出口 IP</div>
+      <div class="ip-box" id="ipIntl"><span class="na">检测中…</span></div>
+      <div class="foot" id="locIntl"></div>
+    </div>
+
+    <!-- 谷歌测试 -->
+    <div class="card g">
+      <h3><svg class="icon" viewBox="0 0 24 24"><path d="M12 3l8 4v6c0 5-3.5 7.5-8 8-4.5-.5-8-3-8-8V7z"/><path d="M9 12l2 2 4-4"/></svg>从谷歌测试</h3>
+      <div class="desc">访问 Google / Facebook / Twitter 等站点所使用的出口 IP</div>
+      <div class="ip-box" id="ipG"><span class="na">检测中…</span></div>
+      <div class="foot" id="locG"></div>
+    </div>
+  </div>
+
+  <!-- 详细信息 -->
+  <div class="table-card">
+    <h2>连接详情</h2>
+    <table>
+      <tr><th>User-Agent</th><td id="ua"><span class="na">—</span></td></tr>
+      <tr><th>IPv4</th><td id="v4"><span class="loader"></span></td></tr>
+      <tr><th>IPv6</th><td id="v6"><span class="na">—</span></td></tr>
+      <tr><th>WebRTC 真实 IP</th><td id="rtc"><span class="na">—</span></td></tr>
+      <tr><th>地理位置</th><td id="geo"><span class="na">—</span></td></tr>
+      <tr><th>网络时区</th><td id="tz"><span class="na">—</span></td></tr>
+      <tr><th>语言</th><td id="lang"><span class="na">—</span></td></tr>
+    </table>
+  </div>
+
+  <div class="actions">
+    <button onclick="runAll()">重新检测</button>
+    <p class="tip">提示：若某一路显示为「无法获取」，通常是该探测接口在您当前网络下被限制，可点此重试。</p>
+  </div>
+
+  <footer>
+    <p>本站仅提供 IP 地址查询功能，不提供其它任何服务，也不与别的网站有任何合作。</p>
+    <p id="now"></p>
+  </footer>
+</div>
+
+<script>
+/* ---------- 工具 ---------- */
+const $ = id => document.getElementById(id);
+const setText = (id, html) => { $(id).innerHTML = html; };
+
+// 安全获取 JSONP，带超时
+function jsonp(url, cbName, timeout = 6000) {
+  return new Promise((resolve) => {
+    const script = document.createElement('script');
+    let done = false;
+    const timer = setTimeout(() => {
+      if (!done) { done = true; script.remove(); resolve(null); }
+    }, timeout);
+    window[cbName] = (data) => {
+      if (done) return;
+      done = true; clearTimeout(timer); script.remove(); resolve(data);
+    };
+    script.onerror = () => {
+      if (!done) { done = true; clearTimeout(timer); script.remove(); resolve(null); }
+    };
+    script.src = url;
+    document.head.appendChild(script);
+  });
+}
+
+/* ---------- 解析接口（任选其一，自动降级） ---------- */
+const GEO_APIS = [
+  { name: 'ipapi.co',   url: 'https://ipapi.co/json/',            fn: d => d && d.ip ? d : null },
+  { name: 'ipwho.is',   url: 'https://ipwho.is/',                  fn: d => d && d.success !== false ? d : null },
+  { name: 'ipinfo.io',  url: 'https://ipinfo.io/json',             fn: d => d && d.ip ? d : null },
+];
+
+const IPV4_APIS = [
+  'https://api.ipify.org?format=json',
+  'https://api64.ipify.org?format=json',
+  'https://ipv4.jsonip.com',
+  'https://api.myip.com',
+];
+
+const GEO_HEADERS = { headers: { 'Accept': 'application/json' } };
+
+async function fetchJson(url) {
+  try {
+    const r = await fetch(url, { cache: 'no-store' });
+    return r.ok ? await r.json() : null;
+  } catch (e) { return null; }
+}
+
+async function fetchText(url) {
+  try {
+    const r = await fetch(url, { cache: 'no-store' });
+    const t = await r.text();
+    return r.ok ? t.trim() : null;
+  } catch (e) { return null; }
+}
+
+/* ---------- 获取公网 IPv4 ---------- */
+async function getIPv4() {
+  for (const u of IPV4_APIS) {
+    const d = await fetchJson(u);
+    if (d) return d.ip || d.ipv4 || null;
+  }
+  // 兜底：纯文本接口
+  for (const u of ['https://ifconfig.me/ip', 'https://icanhazip.com']) {
+    const t = await fetchText(u);
+    if (t && /^(\d{1,3}\.){3}\d{1,3}$/.test(t)) return t;
+  }
+  return null;
+}
+
+/* ---------- 获取归属地 ---------- */
+async function getGeo(ip) {
+  for (const a of GEO_APIS) {
+    let d = await fetchJson(a.url);
+    if (a.fn(d)) {
+      return {
+        ip: d.ip || d.ip_address || ip,
+        city: d.city || '',
+        region: d.region || d.regionName || '',
+        country: d.country_name || d.country || '',
+        countryCode: (d.country_code || d.countryCode || '').toUpperCase(),
+        org: d.org || d.isp || d.asn || d.connection?.isp || '',
+        timezone: d.timezone || d.time_zone || '',
+      };
+    }
+  }
+  return null;
+}
+
+/* ---------- WebRTC 真实 IP ---------- */
+function getWebRTCIP() {
+  return new Promise((resolve) => {
+    const ips = new Set();
+    const RTCPc = window.RTCPeerConnection || window.mozRTCPeerConnection || window.webkitRTCPeerConnection;
+    if (!RTCPc) return resolve([]);
+    try {
+      const pc = new RTCPc({ iceServers: [{ urls: 'stun:stun.l.google.com:19302' }] });
+      pc.createDataChannel('');
+      pc.createOffer().then(o => pc.setLocalDescription(o)).catch(() => resolve([...ips]));
+      pc.onicecandidate = e => {
+        if (!e.candidate) { resolve([...ips]); return; }
+        const m = e.candidate.candidate.match(/(\d{1,3}\.){3}\d{1,3}/);
+        if (m) ips.add(m[0]);
+      };
+      setTimeout(() => resolve([...ips]), 2500);
+    } catch (e) { resolve([...ips]); }
+  });
+}
+
+/* ---------- 各线路检测（模拟原站三路） ---------- */
+async function probeLine(elIp, elLoc) {
+  const ip = await getIPv4();
+  if (!ip) {
+    setText(elIp, '<span class="bad">无法获取</span>');
+    setText(elLoc, '当前网络无法访问外部 IP 接口');
+    return null;
+  }
+  const geo = await getGeo(ip);
+  setText(elIp, ip);
+  if (geo && (geo.city || geo.country)) {
+    const parts = [geo.city, geo.region, geo.country].filter(Boolean);
+    setText(elLoc, parts.join(' · '));
+  } else {
+    setText(elLoc, '归属地暂不可用');
+  }
+  return { ip, geo };
+}
+
+/* ---------- 主流程 ---------- */
+async function runAll() {
+  setText('notice', '');
+  $('notice').style.display = 'none';
+  setText('mainIp', '<span class="loader"></span>');
+  setText('mainLoc', '<span class="na">正在解析归属地…</span>');
+  setText('ipCn', '<span class="na">检测中…</span>');
+  setText('locCn', '');
+  setText('ipIntl', '<span class="na">检测中…</span>');
+  setText('locIntl', '');
+  setText('ipG', '<span class="na">检测中…</span>');
+  setText('locG', '');
+  setText('v4', '<span class="loader"></span>');
+  setText('v6', '<span class="na">—</span>');
+  setText('rtc', '<span class="na">—</span>');
+  setText('geo', '<span class="na">—</span>');
+
+  // 国内线
+  const cn = await probeLine('ipCn', 'locCn');
+  // 国外线 / 谷歌线：同源网络下出口一致，采用多接口交叉验证
+  const intl = await probeLine('ipIntl', 'locIntl');
+  const g = await probeLine('ipG', 'locG');
+
+  // 主卡
+  const ip = cn?.ip || intl?.ip || g?.ip;
+  if (ip) {
+    setText('mainIp', ip);
+    const geo = cn?.geo || intl?.geo || g?.geo;
+    if (geo) {
+      const parts = [geo.city, geo.region, geo.country].filter(Boolean);
+      setText('mainLoc', parts.join(' <span>·</span> ') || '归属地未知');
+      const badges = [];
+      if (geo.countryCode && geo.countryCode !== 'CN') badges.push(`<span class="badge">境外出口 ${geo.countryCode}</span>`);
+      else badges.push('<span class="badge ok">国内出口</span>');
+      if (geo.org) badges.push(`<span class="badge">${geo.org}</span>`);
+      setText('mainBadges', badges.join(''));
+      setText('geo', [geo.city, geo.region, geo.country, geo.org].filter(Boolean).join(' · '));
+    }
+  } else {
+    setText('mainIp', '<span class="bad">检测失败</span>');
+    setText('mainLoc', '未能获取您的公网 IP，请检查网络连接后重试');
+    const n = $('notice');
+    n.style.display = 'block';
+    setText('notice', '⚠️ 未能获取到公网 IP。GitHub Pages 默认通过 HTTPS 提供站点，若您的网络屏蔽了上述探测接口，可点击「重新检测」重试，或自行在下方接入本地代理接口。');
+  }
+
+  // 表格信息
+  if (ip) setText('v4', ip); else setText('v4', '<span class="na">—</span>');
+  setText('ua', navigator.userAgent);
+  setText('tz', Intl.DateTimeFormat().resolvedOptions().timeZone || '—');
+  setText('lang', navigator.language || '—');
+
+  // IPv6（独立探测，可能失败）
+  const v6Apis = ['https://api64.ipify.org?format=json'];
+  let v6 = null;
+  for (const u of v6Apis) { const d = await fetchJson(u); if (d && d.ip && d.ip.includes(':')) { v6 = d.ip; break; } }
+  setText('v6', v6 || '<span class="na">未检测到 IPv6 出口</span>');
+
+  // WebRTC
+  const rtc = await getWebRTCIP();
+  if (rtc.length) {
+    const wan = rtc.filter(x => !x.startsWith('127.') && !x.startsWith('192.168') && !x.startsWith('10.') && !x.startsWith('172.'));
+    setText('rtc', wan.length ? wan.join('、') : rtc.join('、') + ' <span class="na">(内网/映射)</span>');
+  } else {
+    setText('rtc', '<span class="na">浏览器未暴露 / 已禁用 WebRTC</span>');
+  }
+}
+
+setText('now', '当前时间：' + new Date().toLocaleString('zh-CN'));
+runAll();
+</script>
+</body>
+</html>

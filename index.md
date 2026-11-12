@@ -55,6 +55,7 @@
 <a href="https://api.uouin.com/ip.html" target="_blank">[IP地址查询、路由跟踪]</a>&nbsp;
 <a href="https://tool.browser.qq.com/net_check.html" target="_blank">[域名联通性检查]</a>&nbsp;
 <a href="https://www.json.cm/unixtime/" target="_blank">[时间戳在线转换]</a>&nbsp;|
+[<a href="https://pan946.com/" target="_blank"><span style="color:red;">**盘就是六**</span></a>]&nbsp;
 **听歌**&nbsp;&nbsp;
 <a href="https://music.163.com/#/discover/toplist?id=3778678" target="_blank">[网易在线听歌]</a>&nbsp;|
 

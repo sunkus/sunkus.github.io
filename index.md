@@ -43,6 +43,8 @@
 <a href="https://sunkus.lanzouu.com/i0lkt497guwj" target="_blank">[rustdesk1.4.8(ID登录电脑可远控版)]</a>&nbsp;
 <a href="https://sunkus.lanzouu.com/i7FN3497hbba" target="_blank">[rustdesk1.4.8(ID登录手机可远控版)]</a>&nbsp;
 <a href="https://eternity4719.github.io/HowToLiveBetter/" target="_blank">[《高性价比人生指南》]</a>&nbsp;
+<a href="https://t.me/tgx_log" target="_blank">[Telegram X]</a>&nbsp;
+
 **软件**&nbsp;&nbsp;
 <a href="https://4275.com/qth1ku" target="_blank">[wps2023]</a>&nbsp;
 <a href="/soft/清除历史打印数据.bat" target="_blank">[清除历史打印数据]</a>&nbsp;
